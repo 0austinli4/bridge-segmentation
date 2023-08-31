@@ -17,7 +17,7 @@ Potential applications include: contour formation / bridge structure assessment,
 Individual Bridge Detection
 ![Single Bridge](https://github.com/0austinli4/DLR-bridge-segmentation/blob/main/singleBridge.gif)
 
-<img width="500" alt="image" src="https://github.com/0austinli4/DLR-bridge-segmentation/assets/108751584/1381686b-8d82-40ab-ae2e-eee0785d9193">
+<img width="800" alt="image" src="https://github.com/0austinli4/DLR-bridge-segmentation/assets/108751584/1381686b-8d82-40ab-ae2e-eee0785d9193">
 
 ### Full Method Video
 Full method demonstration video: https://drive.google.com/file/d/1JrH6ahYkYQm1fiwVMAyj4BqhdDnfBXpG/view?resourcekey
