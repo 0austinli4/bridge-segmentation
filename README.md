@@ -1,5 +1,5 @@
 # DLR-bridge-segmentation
-Final Research Project at German Aerospace Center(DLR) commmunications and navigation internship, researching topic of bridge segmentation and river bank detection from lidar point clouds
+Final Research Project at German Aerospace Center(DLR) commmunications and navigation internship, researching bridge segmentation and river bank detection from lidar point clouds
 
 Before and after segmentation process, output composing point clouds of individual bridges and river banks
 ![Bridge](https://github.com/0austinli4/DLR-bridge-segmentation/blob/main/bridgeSegmentation%201.gif)
